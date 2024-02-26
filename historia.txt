@@ -3,3 +3,5 @@ Esta es la historia de Asdrúbal tenia
 Asdrúbal Tenia tiene 34 años y nacio en Venezuela
 
 Hoy hablaremos de mi vida para automatizar pruebas de software
+
+Practicando cambios y comandos
