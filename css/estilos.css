@@ -10,8 +10,12 @@ body
     width: 70%;
     padding: auto;
     text-align: justify;
+    font-weight: bold;
+    box-shadow: blueviolet;
     border: 1px solid;
     margin: auto;
+    font-style: italic;
+    flood-color: antiquewhite;
 }
 
 #container h1
